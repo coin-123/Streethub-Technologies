@@ -47,8 +47,8 @@ const Nav = () => {
             <h1 className="text-white font-semibold text-2xl logodes">
               StreetHub
             </h1>
-            {/* <p className="text-white text-2xl logodes ">Technologies</p> */}
-            <p className="text-white text-sm logodes">Technologies</p>
+            <p className="text-white text-2xl technologies">Technologies</p>
+            {/* <p className="text-white text-sm logodes">Technologies</p> */}
           </div>
         </div>
 
@@ -123,7 +123,7 @@ const Nav = () => {
           <img src={Logo} alt="" className="w-[28%]" />
           <div className="logotexts">
             <h1 className="text-white font-semibold text-xl">StreetHub</h1>
-            <p className="text-white text-xl">Academy</p>
+            <p className="text-white text-l ">Technologies</p>
           </div>
         </div>
 
