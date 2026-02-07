@@ -123,7 +123,7 @@ const Nav = () => {
           <img src={Logo} alt="" className="w-[28%]" />
           <div className="logotexts">
             <h1 className="text-white font-semibold text-xl">StreetHub</h1>
-            <p className="text-white text-l ">Technologie</p>
+            <p className="text-white text-l ">Technologies</p>
           </div>
         </div>
 
