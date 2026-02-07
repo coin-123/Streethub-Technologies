@@ -58,7 +58,7 @@ const Streethub = () => {
                   transition={{ duration: 2, ease: "linear" }}
                   className="streettext text-white overflow-hidden whitespace-nowrap border-r-2 border-white pr-1 text-[2rem] font-semibold"
                 >
-                  Welcome To StreetHub Academy 
+                  Welcome To StreetHub Technologies
                  
                 </motion.p>
               )}

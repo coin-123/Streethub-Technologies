@@ -47,7 +47,8 @@ const Nav = () => {
             <h1 className="text-white font-semibold text-2xl logodes">
               StreetHub
             </h1>
-            <p className="text-white text-2xl logodes ">Academy</p>
+            {/* <p className="text-white text-2xl logodes ">Technologies</p> */}
+            <p className="text-white text-sm logodes">Technologies</p>
           </div>
         </div>
 
